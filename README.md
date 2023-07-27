@@ -1,19 +1,19 @@
 # KGU-Network-Security(2022.09 ~ 2022.12)
 
 ## Index
-- [Project Information](#Project Information)
-- [Team Introduction](#Team Introduction)
-- [Project Introduction](#Project Introduction)
+- [Project_Information](#Project_Information)
+- [Team_Introduction](#Team_Introduction)
+- [Project_Introduction](#Project_Introduction)
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 - [Stacks](#Stacks)
   
-## Project Information
+## Project_Information
 
 
-## Team Introduction
+## Team_Introduction
 
-## Project Introduction
+## Project_Introduction
 
 ## Requirements
 
